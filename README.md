@@ -1,1 +1,1 @@
-<img src="./bvckstvb.gif" width="300">
+<img src="./bvckstvb.gif" width="600">
