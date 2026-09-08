@@ -1,4 +1,4 @@
-<img src="./bvckstvb.gif" width="850" height="650">
+<img src="./bvckstvb.gif" width="700" height="700">
 ## 🐍 My GitHub Contributions
 
 <p align="center">
