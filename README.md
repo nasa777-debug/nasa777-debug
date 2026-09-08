@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./goku.gif" width="450" >
+<img src="./bvckstvb.gif" width="600" >
 </p>
 ## 🐍 My GitHub Contributions
 
