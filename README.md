@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Mahadev+%F0%9F%91%8B;B.E.+Computer+Science+Engineering+Student+%F0%9F%92%BB;Learning+Python+%7C+Java+%7C+C;Exploring+Web+Development+%F0%9F%8C%90;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Building+Projects+%26+Learning+Every+Day+%F0%9F%9A%80">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Narayana+%F0%9F%91%8B;B.E.+Computer+Science+Engineering+Student+%F0%9F%92%BB;Learning+Python+%7C+Java+%7C+C;Exploring+Web+Development+%F0%9F%8C%90;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Building+Projects+%26+Learning+Every+Day+%F0%9F%9A%80">
 </p>
 
 ---
