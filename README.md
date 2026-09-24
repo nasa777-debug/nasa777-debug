@@ -2,10 +2,6 @@
   <img src="./bvckstvb.gif" width="550">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=600&color=00FF9C&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Narayana+%F0%9F%91%8B;Code.+Learn.+Build.+Repeat.+%F0%9F%94%A5;Python+%7C+Java+%7C+C;Web+Development+%7C+AI%2FML;Turning+Ideas+into+Projects+%F0%9F%9A%80">
-</p>
-
 ---
 
 ## 👨‍💻 About Me
