@@ -19,8 +19,20 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,flask,fastapi,mysql,git,github,linux">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" width="50">
+  <img src="https://skillicons.dev/icons?i=java" width="50">
+  <img src="https://skillicons.dev/icons?i=python" width="50">
+  <img src="https://skillicons.dev/icons?i=html" width="50">
+  <img src="https://skillicons.dev/icons?i=css" width="50">
+  <img src="https://skillicons.dev/icons?i=js" width="50">
+  <img src="https://skillicons.dev/icons?i=react" width="50">
+  <img src="https://skillicons.dev/icons?i=flask" width="50">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="50">
+  <img src="https://skillicons.dev/icons?i=mysql" width="50">
+  <img src="https://skillicons.dev/icons?i=git" width="50">
+  <img src="https://skillicons.dev/icons?i=github" width="50">
+  <img src="https://skillicons.dev/icons?i=linux" width="50">
 </p>
 
 ---
