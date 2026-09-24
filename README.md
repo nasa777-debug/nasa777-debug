@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./bckvstvb.gif" width="800">
+  <img src="./bckvstvb.gif" width="5500">
 </p>
 
 <p align="center">
